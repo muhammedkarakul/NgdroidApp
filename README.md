@@ -9,4 +9,4 @@ You can  use 2d_oyun_egitimi.pdf file to have information about the progress of 
 
 ## Project Working in Android Emulator
 
-<img src="https://thumbs.gfycat.com/SpottedObedientGoose-size_restricted.gif">
+<img src="https://thumbs.gfycat.com/AdoredGaseousDaddylonglegs-size_restricted.gif">
