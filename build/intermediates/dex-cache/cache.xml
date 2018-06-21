@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.1.0_70bb51c7e9a3e842b84cd3de2b8e9165eb242800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_0a93e69608de5258ccffeb0a6fdf44879df58d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/android.arch.core-runtime-1.1.0_5212fd834f0a2ce157637023b6aeac1be35be157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.1.1_af4e22101f5106802a5d47fab4e30cfd314448a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.1.1_a9fd3e6f57ebe04f36e8eb59b781712643da28a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/common-1.1.0_e1dea8adadb4a58344a11b388c9f48c6c542b7b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.1.1_98dfda3f25ee17099c6b8bbd5cbc9ae0bf5c6fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-viewmodel-1.1.0_147295a00b5184a3c7c3fe276a1b133aff1b6f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.1.1_3726a36161a733353a907be44289dd098f5078a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.1.1_d9069fe2f1e89fd957b4395091f5355a8feaa844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.1.1_5caee6aff96f4d4e64525a0a5f80565fe1238426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/common-1.1.0_bd64465c3b2ebcec35eab5c31a418f180f7c6710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.1.1_3aff1bdf02361f44e2f0ab02471784a74f22cca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/muhammedkarakul/Projects/NgdroidApp-master/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-livedata-core-1.1.0_8115935d33a4fe8c733bad4d876642d53aa4d136.jar" />
+    </item>
+
+</items>
